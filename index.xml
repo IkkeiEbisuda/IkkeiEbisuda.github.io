@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>私はブログです。</title>
+    <link>https://IkkeiEbisuda.github.io/</link>
+    <description>Recent content on 私はブログです。</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 11 May 2019 06:23:42 +0900</lastBuildDate>
+    
+	<atom:link href="https://IkkeiEbisuda.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>テスト</title>
+      <link>https://IkkeiEbisuda.github.io/post/test/</link>
+      <pubDate>Sat, 11 May 2019 06:23:42 +0900</pubDate>
+      
+      <guid>https://IkkeiEbisuda.github.io/post/test/</guid>
+      <description>ブログのテスト をしてみます。</description>
+    </item>
+    
+  </channel>
+</rss>
