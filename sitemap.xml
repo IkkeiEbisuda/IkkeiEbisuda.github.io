@@ -4,19 +4,24 @@
   
   <url>
     <loc>https://IkkeiEbisuda.github.io/post/</loc>
-    <lastmod>2019-05-11T06:23:42+09:00</lastmod>
+    <lastmod>2019-05-11T15:21:12+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://IkkeiEbisuda.github.io/</loc>
+    <lastmod>2019-05-11T15:21:12+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://IkkeiEbisuda.github.io/post/2/</loc>
+    <lastmod>2019-05-11T15:21:12+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://IkkeiEbisuda.github.io/post/test/</loc>
     <lastmod>2019-05-11T06:23:42+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://IkkeiEbisuda.github.io/</loc>
-    <lastmod>2019-05-11T06:23:42+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
